@@ -1,4 +1,4 @@
-[![microservices](https://circleci.com/gh/NgachaIan/microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/NgachaIan)
+[![CircleCI](https://circleci.com/gh/NgachaIan/microservices/tree/main.svg?style=svg)](https://circleci.com/gh/NgachaIan/microservices/tree/main)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
