@@ -1,5 +1,4 @@
-https://app.circleci.com/pipelines/github/NgachaIan/microservices/4/workflows/de358d3e-4cff-4665-aac2-853503c8cb26
-
+[![microservices](https://circleci.com/gh/NgachaIan/microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/NgachaIan)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
